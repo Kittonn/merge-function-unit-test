@@ -10,14 +10,24 @@
    npm install
    ```
 
-3. Run development mode
+3. Run this project with either of the following commands
+
+   ```bash
+   npm run build
+   ```
+
+   ```bash
+   npm run start
+   ```
+
+   or run in development mode
 
    ```bash
    npm run dev
    ```
-  or you can run the test mode
 
+4. Run the tests
 
-```bash
-npm run test
-```
+   ```bash
+   npm run test
+   ```
